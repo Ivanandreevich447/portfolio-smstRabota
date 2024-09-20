@@ -42,6 +42,9 @@ header {
   line-height: 23.4px;
   letter-spacing: -0.03em;
 }
+.nav__link:nth-child(1) {
+  padding-left: 0;
+  
 .nav__link {
   padding-left: 42px;
   color: white;
